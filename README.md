@@ -44,7 +44,9 @@ C. Analytical Techniques
 	•	Identification of patterns and performance differences
 
 D. Tool
+
 	•	Power BI-ready insights
+
 
   **Key Findings**
 
