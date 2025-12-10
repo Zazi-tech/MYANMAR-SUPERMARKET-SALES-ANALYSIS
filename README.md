@@ -9,9 +9,13 @@ Findings indicate strong overall revenue, high adoption of digital payments, and
 
 The purpose of this analysis is to:
 	1.	Evaluate overall sales performance across branches and product categories.
+	
 	2.	Identify top-selling and underperforming product lines.
+	
 	3.	Analyse customer purchasing patterns by gender and membership type.
+	
 	4.	Examine payment behaviour and time-based sales trends.
+	
 	5.	Provide actionable recommendations to enhance sales and optimise operations.
 
   **Methodology**
@@ -20,17 +24,23 @@ The purpose of this analysis is to:
 
 A. Data Inspection
 	•	The cleaned dataset was loaded and reviewed for accuracy and completeness.
+	
 	•	Fields such as product line, payment type, customer type, date, and totals were validated.
 
 B. Data Preparation
 	•	Dates and times were converted into proper formats for time-series analysis.
+	
 	•	Descriptive metrics (e.g., total revenue, average transaction value) were computed.
+	
 	•	Sales were grouped by branch, product line, gender, and payment type.
 
 C. Analytical Techniques
 	•	Descriptive statistics
+	
 	•	Aggregation and comparison analysis
+	
 	•	Trend analysis (daily and hourly sales)
+	
 	•	Identification of patterns and performance differences
 
 D. Tool
