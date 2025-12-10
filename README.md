@@ -101,4 +101,5 @@ G. Time-Based Trends
 	•	Promote food and beverage deals through loyalty cards, bundles, and weekend discounts.
 
 **Conclusions**
+
 The analysis confirms that the supermarket maintains a solid sales structure across branches and product lines. Strong digital payment adoption, balanced customer demographics, and high performance in key product categories contribute to overall success. However, opportunities exist to improve weaker product lines and enhance sales in Branch B. By implementing the recommendations outlined, the supermarket can strengthen revenue growth, elevate customer satisfaction, and optimise operational efficiency.
