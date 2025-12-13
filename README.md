@@ -162,7 +162,7 @@ G. Time-Based Trends
 ## Conclusions
 The analysis confirms that the supermarket maintains a solid sales structure across branches and product lines. Strong digital payment adoption, balanced customer demographics, and high performance in key product categories contribute to overall success. However, opportunities exist to improve weaker product lines and enhance sales in Branch B. By implementing the recommendations outlined, the supermarket can strengthen revenue growth, elevate customer satisfaction, and optimise operational efficiency.
 
-# Tool And Technologies Used
+# Tools And Technologies Used
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
